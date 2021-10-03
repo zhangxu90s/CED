@@ -1,4 +1,4 @@
-# CORRELATION ENCODER-DECODER MODEL FOR TEXT GENERATION
+# Correlation Encoder-Decoder Model for Text Generation
 # Datasets
 The proposed model and baselines have been evaluated on two experiments:      
 Neural Question Generation with the SQuAD dataset https://rajpurkar.github.io/SQuAD-explorer/   
