@@ -1,4 +1,4 @@
-# CED
+# CORRELATION ENCODER-DECODER MODEL FOR TEXT GENERATION
 # Acknowledgments
 1. Hareesh Bahuleyan, Lili Mou, Hao Zhou, and Olga Vechtomova, “Stochastic wasserstein autoencoder for probabilistic sentence generation,” in NAACL, 2019, pp. 4068–4076.
 https://github.com/HareeshBahuleyan/probabilistic_nlg 
