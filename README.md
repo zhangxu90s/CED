@@ -1,7 +1,7 @@
 # CORRELATION ENCODER-DECODER MODEL FOR TEXT GENERATION
 # Datasets
 The proposed model and baselines have been evaluated on two experiments:
-Neural Question Generation with the SQuAD dataset https://rajpurkar.github.io/SQuAD-explorer/
+Neural Question Generation with the SQuAD dataset https://rajpurkar.github.io/SQuAD-explorer/   
 Daily Dialog dataset http://yanran.li/dailydialog.html
 # Requirements
 tensorflow-gpu==1.3.0
