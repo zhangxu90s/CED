@@ -1,4 +1,5 @@
 # Correlation Encoder-Decoder Model for Text Generation
+Based on the work of Hareesh Bahuleyan et al. we modified the structure of the model so that the model can take into account the correlation in the encode-decode process.
 # Datasets
 The proposed model and baselines have been evaluated on two experiments:      
 Neural Question Generation with the SQuAD dataset https://rajpurkar.github.io/SQuAD-explorer/   
