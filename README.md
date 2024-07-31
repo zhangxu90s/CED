@@ -18,3 +18,10 @@ https://github.com/HareeshBahuleyan/probabilistic_nlg
 2. Hareesh Bahuleyan, Lili Mou, Olga Vechtomova, and Pascal Poupart, “Variational attention for sequence-to- sequence models,” in COLING, 2018, pp. 1672–1682.
 https://github.com/HareeshBahuleyan/tf-var-attention
 3. 深度学习的互信息：无监督提取特征 https://kexue.fm/archives/6024, https://github.com/bojone/infomax
+
+
+
+# Reference
+If you find our source useful, please consider citing our work.
+
+Zhang X, Li Y, Peng X, et al. Correlation encoder-decoder model for text generation[C]//2022 International Joint Conference on Neural Networks (IJCNN). IEEE, 2022: 1-7.
